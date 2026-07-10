@@ -1,4 +1,4 @@
-# Smart Retail Billing & Inventory Manager
+# Retail Billing System
 
 An interactive terminal-based retail point-of-sale simulator that tracks live store inventory levels, manages user shopping carts, and processes automated customer checkout logic.
 
